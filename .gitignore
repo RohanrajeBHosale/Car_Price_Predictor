@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+.DS_Store
+data/vehicles.csv   # Don't upload the massive raw file (too big for GitHub)
+data/vehicles_cleaned.csv # Don't upload this either
