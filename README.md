@@ -1,5 +1,8 @@
 # 🚗 AI Used Car Price Predictor
 
+
+live demo- https://carpricepredictor-ntyf6xmpzqwmloqy4jdg87.streamlit.app/
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Regressor-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
